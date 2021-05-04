@@ -10,11 +10,11 @@ const options = [
     },
     {
         label: 'Japanese',
-        value: 'jp'
+        value: 'ja'
     },
     {
         label: 'Kazakh',
-        value: 'kz'
+        value: 'kk'
     }
 ];
 
